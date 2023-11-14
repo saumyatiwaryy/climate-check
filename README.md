@@ -1,2 +1,2 @@
 # climate-check
- check temperatire, humidity and wind speed
+ check temperature, humidity and wind speed
